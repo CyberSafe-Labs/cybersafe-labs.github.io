@@ -1,4 +1,4 @@
-# cybersafe-labs.github.io
+# CyberSafe Labs Open-Source
 Welcome to CyberSafe Labs Open Source Website, here is a list of of my open-source projects.
 
 1.Kwick Browser (https://github.com/CyberSafe-Labs/Kwick-Browser)
