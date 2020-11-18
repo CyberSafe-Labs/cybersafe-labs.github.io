@@ -3,7 +3,7 @@ Welcome to CyberSafe Labs Open Source Website, here is a list of of my open-sour
 
 1.Kwick Browser (https://github.com/CyberSafe-Labs/Kwick-Browser)
 
-2.CyberLang (Closed Source)
+2.CyberLang (Closed Source) (www.cybersafe.ezyro.com/cyberlang) (https://cybersafe-labs.github.io/CyberLang)
 
 3.CyberStore (https://github.com/CyberSafe-Labs/CyberStore)
 
